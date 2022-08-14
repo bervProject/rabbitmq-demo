@@ -1,0 +1,12 @@
+{
+  "name": "rabbitmq-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bervProject/rabbitmq-demo.git",
+  "author": "Bervianto Leo Pratama <bervianto.leo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.2",
+    "uuid": "^8.3.2"
+  }
+}
