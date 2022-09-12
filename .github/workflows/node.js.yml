@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-22.04
     services:
       rabbitmq:
-        image: 3.9-alpine
+        image: rabbitmq:3.9-alpine
         ports:
           - 5672:5672
     strategy:
