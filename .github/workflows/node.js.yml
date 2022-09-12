@@ -28,4 +28,4 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'yarn'
     - run: yarn --frozen-lockfile
-    - run: RABBITMQ_HOST="amqp://localhost:5672" node sender.js
+    - run: RABBITMQ_HOST="amqp://guest:guest@localhost:5672" node sender.js
