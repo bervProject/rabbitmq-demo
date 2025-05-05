@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-amqplib@^0.10.7:
-  version "0.10.7"
-  resolved "https://registry.yarnpkg.com/amqplib/-/amqplib-0.10.7.tgz#d28586805169bedb03a2efe6e09a3e43148eaa0f"
-  integrity sha512-7xPSYKSX2kj/bT6iHZ3MlctzxdCW1Ds9xyN0EmuRi2DZxHztwwoG1YkZrgmLyuPNjfxlRiMdWJPQscmoa3Vgdg==
+amqplib@^0.10.8:
+  version "0.10.8"
+  resolved "https://registry.yarnpkg.com/amqplib/-/amqplib-0.10.8.tgz#87f5173df65f17008ad5dd0736174724b8211b11"
+  integrity sha512-Tfn1O9sFgAP8DqeMEpt2IacsVTENBpblB3SqLdn0jK2AeX8iyCvbptBc8lyATT9bQ31MsjVwUSQ1g8f4jHOUfw==
   dependencies:
     buffer-more-ints "~1.0.0"
     url-parse "~1.5.10"
