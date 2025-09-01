@@ -6,7 +6,7 @@
   "author": "Bervianto Leo Pratama <bervianto.leo@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "^0.10.8",
+    "amqplib": "^0.10.9",
     "uuid": "^11.1.0"
   }
 }
