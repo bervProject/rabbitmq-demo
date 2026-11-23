@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-amqplib@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/amqplib/-/amqplib-2.0.1.tgz#7f14517c1d5f6e8608cf0abf4df817e923eb59b6"
-  integrity sha512-a3P2MgfCf9nzVis12VxWEn0dS6hcqve7dlEAhXDtIWR27BlhtMkILOc+H9aeHjDi6i6r94dYKc2Kx2OFe3avvg==
+amqplib@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/amqplib/-/amqplib-2.4.0.tgz#16841501b4d0a8fcb78ea9bdb1f68c8a4a2c019d"
+  integrity sha512-HNxvtv3etFqFNTJZlXCQLGljtxghyY7Wz9elG7qHMfj4O2Fdpd+XrQuJ+4NQ6M7+9NjGHNk5XncNsnb1nqIPYw==
 
 uuid@^14.0.2:
   version "14.0.2"
